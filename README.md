@@ -1,6 +1,8 @@
 # bash-scripts
 Examples of Bash Scripts
 
+![Bash Scripts](https://user-images.githubusercontent.com/58792/145680377-aec70438-1999-40af-b573-f45debac4a5a.png)
+
 ## Basic Bash Script
 
 Core components breakdown
