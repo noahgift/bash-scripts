@@ -14,3 +14,6 @@ Core components:
 Core components breakdown
 * [bash-script-basics.sh](https://github.com/noahgift/bash-scripts/blob/main/bash-script-basics.sh)
 
+## Bash Functions
+
+* [Bash Functions](https://github.com/noahgift/bash-scripts/blob/main/bash-functions.sh)
