@@ -30,7 +30,11 @@ add() {
 add 1 2
 
 # capture output of function
-# will echo 14
+# will not echo 14 because I captured it
 output=$(add 5 9)
-echo $output
+
+# sent that value into add again
+add $output $output
+
+#echo $output
 
