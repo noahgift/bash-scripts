@@ -9,10 +9,10 @@
 set -e
 
 # Enables printing of shell input lines as they are read
-set -v
+#set -v
 
 # Enables print of command traces before executing command
-set -x
+#set -x
 
 # Set a variable
 variable="one"
