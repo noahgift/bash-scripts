@@ -16,4 +16,6 @@ Core components breakdown
 
 ## Bash Functions
 
+![Bash Functions](https://user-images.githubusercontent.com/58792/145683408-c7400fd4-b8c1-46c7-852e-492e2cfb18c4.png)
+
 * [Bash Functions](https://github.com/noahgift/bash-scripts/blob/main/bash-functions.sh)
