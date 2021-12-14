@@ -71,4 +71,8 @@ Note that modern cloudshell environments have version greater than 4.0, like Git
 
 ### Bash Lists
 
+* [lists](https://github.com/noahgift/bash-scripts/blob/main/lists.sh)
+
 ### Bash Hashes
+
+* [hashes](https://github.com/noahgift/bash-scripts/blob/main/hashes.sh)
